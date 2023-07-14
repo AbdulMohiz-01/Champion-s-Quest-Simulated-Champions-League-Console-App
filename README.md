@@ -74,3 +74,5 @@ The Champions League Simulator is released under the [MIT License](LICENSE). Fee
 ---
 
 Thank you for using the Champions League Simulator! Enjoy the excitement of simulating the UEFA Champions League, and we appreciate any contributions to enhance this project.
+
+[Download the PDF with the detailed procedure](https://github.com/AbdulMohiz-01/Champions-League-Simulator/blob/main/programming-task%20(1).pdf)
