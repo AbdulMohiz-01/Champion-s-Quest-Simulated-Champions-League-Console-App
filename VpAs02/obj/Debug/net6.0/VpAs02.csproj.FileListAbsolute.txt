@@ -1,0 +1,15 @@
+C:\Users\mohiz\source\repos\VpAs02\VpAs02\bin\Debug\net6.0\VpAs02.exe
+C:\Users\mohiz\source\repos\VpAs02\VpAs02\bin\Debug\net6.0\VpAs02.deps.json
+C:\Users\mohiz\source\repos\VpAs02\VpAs02\bin\Debug\net6.0\VpAs02.runtimeconfig.json
+C:\Users\mohiz\source\repos\VpAs02\VpAs02\bin\Debug\net6.0\VpAs02.dll
+C:\Users\mohiz\source\repos\VpAs02\VpAs02\bin\Debug\net6.0\VpAs02.pdb
+C:\Users\mohiz\source\repos\VpAs02\VpAs02\obj\Debug\net6.0\VpAs02.csproj.AssemblyReference.cache
+C:\Users\mohiz\source\repos\VpAs02\VpAs02\obj\Debug\net6.0\VpAs02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohiz\source\repos\VpAs02\VpAs02\obj\Debug\net6.0\VpAs02.AssemblyInfoInputs.cache
+C:\Users\mohiz\source\repos\VpAs02\VpAs02\obj\Debug\net6.0\VpAs02.AssemblyInfo.cs
+C:\Users\mohiz\source\repos\VpAs02\VpAs02\obj\Debug\net6.0\VpAs02.csproj.CoreCompileInputs.cache
+C:\Users\mohiz\source\repos\VpAs02\VpAs02\obj\Debug\net6.0\VpAs02.dll
+C:\Users\mohiz\source\repos\VpAs02\VpAs02\obj\Debug\net6.0\refint\VpAs02.dll
+C:\Users\mohiz\source\repos\VpAs02\VpAs02\obj\Debug\net6.0\VpAs02.pdb
+C:\Users\mohiz\source\repos\VpAs02\VpAs02\obj\Debug\net6.0\VpAs02.genruntimeconfig.cache
+C:\Users\mohiz\source\repos\VpAs02\VpAs02\obj\Debug\net6.0\ref\VpAs02.dll
