@@ -26,7 +26,7 @@ To run the Champions League Simulator locally, follow these steps:
    git clone https://github.com/AbdulMohiz-01/champions-league-simulator.git
    ```
 
-2. Open the solution file (`ChampionsLeagueSimulator.sln`) in Visual Studio or your preferred IDE.
+2. Open the solution file (`VPpAs02.sln`) in Visual Studio or your preferred IDE.
 
 3. Build the solution to restore dependencies and compile the code.
 
